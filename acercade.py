@@ -129,7 +129,7 @@ def info():
         # Links:
         linkedin, github = st.columns((1.2,1))
 
-        linkedin.link_button("Linkedin", "https://www.linkedin.com/in/esteban-rafael-perez-lizardo/")
+        linkedin.link_button("Linkedin", "https://github.com/estebanrpl/IT_Job_Spain_Project-main")
         github.link_button("GitHub", "https://github.com/estebanrpl")
 
     ################################################################
